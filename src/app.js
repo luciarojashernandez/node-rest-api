@@ -1,4 +1,4 @@
-const express = require('express');
+const express = require('express'); //configurar express
 const config = require('./config');
 
 const clientes =  require('./modulos/clientes/rutas')
